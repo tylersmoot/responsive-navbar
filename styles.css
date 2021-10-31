@@ -9,6 +9,7 @@
     background: black;
     position: absolute;
     align-items: center;
+    opacity: 0.8;
     
 }
 
@@ -37,7 +38,8 @@ img {
 
 .links-container ul li a {
     color: white;
-    font-size: 20px;
+    font-family: 'Teko', sans-serif;
+    font-size: 26px;
     text-decoration: none;
     padding: 10px 20px 0 20px;
 }
@@ -54,9 +56,9 @@ img {
 
 .dropdown-container ul li a {
     color: white;
-    font-size: 20px;
+    font-size: 24px;
     text-decoration: none;
-    
+    font-family: 'Teko', sans-serif;
    
 }
 
@@ -104,6 +106,17 @@ img {
   }
 
 
+#fBook {
+    color:white;
+    position: relative;
+    top: 8px;
+}
 
+#insta {
+    color:white;
+    position: relative;
+    top: 9px;
+    left: 15px;
+}
 
 
